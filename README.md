@@ -1,5 +1,16 @@
 # Zika_Algorithms
-Following CDC Algorthms to export proper result of ELISA
+
+Zika Algorithms to automate ELISA data analysis for CDC Emergency Use Authorization and InBios kit protocols. To be used with Versamax spectrophotometer.
+
+The following links and statement are valid as of May 2017. InBios will likely improve their kit over the coming quarters and the links may change.
+
+CDC EUA protocol is traditionally more specific than InBios with fewer false positives.
+
+InBios protocols and documentation including EUA:
+http://www.inbios.com/zikv-detecttm-igm-capture-elisa-kit-usa/
+
+Zika CDC EUA ELISA protocol:
+https://www.cdc.gov/zika/pdfs/non-eua-zika-mac-elisa-protocol.pdf
 
 Zika CDC ELISA
 
